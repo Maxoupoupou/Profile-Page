@@ -1,5 +1,8 @@
 body {
   background-color: #d1cfe2;
+  background-image: url(images/wave.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
