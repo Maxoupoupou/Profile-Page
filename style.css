@@ -1,0 +1,83 @@
+body {
+  background-color: #d1cfe2;
+}
+
+h1 {
+  color: #21201e;
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+}
+
+h2 {
+  color: #525150;
+  font-family: 'EB Garamond', serif;
+  font-size: 22px;
+}
+
+p {
+  font-family: 'Recursive', sans-serif;
+  font-size: 18px;
+  color: #525150;
+}
+
+ul {
+  list-style: none;
+}
+
+.img-profile {
+  width: 100px;
+  border-radius: 50px;
+}
+
+#linkedin {
+  font-family: 'Recursive', sans-serif;
+  font-size: 14px;
+  color: #e0dfeb;
+  background-color: #46426e;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+
+#linkedin:hover {
+  font-family: 'Recursive', sans-serif;
+  font-size: 14px;
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: #201335;
+}
+
+.icons {
+  width: 100px;
+  color: #ef2d56;
+}
+
+.container {
+  text-align: center;
+}
+
+.list-icons > li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-icons {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.card {
+  background-color: #c1bfd8;
+  padding: 7px;
+  margin: 10px 230px 10px 230px;
+  height: 330px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 5px #bab8b5;
+}
+
+#bottom-div{
+  height: 80px;
+}
